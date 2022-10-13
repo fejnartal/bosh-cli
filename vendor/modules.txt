@@ -249,6 +249,10 @@ github.com/fatih/color
 # github.com/fatih/structtag v1.2.0
 ## explicit; go 1.12
 github.com/fatih/structtag
+# github.com/fejnartal/bosh-ghrelcli v0.0.0-20221013115022-5c6a4ee39a45
+## explicit; go 1.18
+github.com/fejnartal/bosh-ghrelcli/client
+github.com/fejnartal/bosh-ghrelcli/config
 # github.com/firefart/nonamedreturns v1.0.1
 ## explicit; go 1.18
 github.com/firefart/nonamedreturns/analyzer
@@ -390,6 +394,12 @@ github.com/google/go-cmp/cmp/internal/diff
 github.com/google/go-cmp/cmp/internal/flags
 github.com/google/go-cmp/cmp/internal/function
 github.com/google/go-cmp/cmp/internal/value
+# github.com/google/go-github/v47 v47.1.0
+## explicit; go 1.17
+github.com/google/go-github/v47/github
+# github.com/google/go-querystring v1.1.0
+## explicit; go 1.10
+github.com/google/go-querystring/query
 # github.com/google/uuid v1.3.0
 ## explicit
 github.com/google/uuid
@@ -840,12 +850,19 @@ go.opencensus.io/trace/tracestate
 # golang.org/x/crypto v0.2.0
 ## explicit; go 1.17
 golang.org/x/crypto/blowfish
+golang.org/x/crypto/cast5
 golang.org/x/crypto/chacha20
 golang.org/x/crypto/curve25519
 golang.org/x/crypto/curve25519/internal/field
 golang.org/x/crypto/ed25519
 golang.org/x/crypto/internal/alias
 golang.org/x/crypto/internal/poly1305
+golang.org/x/crypto/openpgp
+golang.org/x/crypto/openpgp/armor
+golang.org/x/crypto/openpgp/elgamal
+golang.org/x/crypto/openpgp/errors
+golang.org/x/crypto/openpgp/packet
+golang.org/x/crypto/openpgp/s2k
 golang.org/x/crypto/ssh
 golang.org/x/crypto/ssh/internal/bcrypt_pbkdf
 # golang.org/x/exp/typeparams v0.0.0-20220218215828-6cf2b201936e

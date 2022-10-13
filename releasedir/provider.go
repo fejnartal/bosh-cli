@@ -117,6 +117,8 @@ func (p Provider) newBlobstore(dirPath string) boshblob.DigestBlobstore {
 		blobstore = NewS3Blobstore(p.fs, p.uuidGen, options)
 	case "gcs":
 		blobstore = NewGCSBlobstore(p.fs, p.uuidGen, options)
+	case "ghrel":
+		blobstore = NewGHRelBlobstore(p.fs, p.uuidGen, options)
 	default:
 		return NewErrBlobstore(bosherr.Error("Expected release blobstore to be configured"))
 	}
