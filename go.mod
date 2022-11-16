@@ -71,7 +71,7 @@ require (
 	github.com/esimonov/ifshort v1.0.4 // indirect
 	github.com/ettle/strcase v0.1.1 // indirect
 	github.com/fatih/structtag v1.2.0 // indirect
-	github.com/fejnartal/bosh-ghrelcli v0.0.0-20221116131902-f817ac9f808a // indirect
+	github.com/fejnartal/bosh-ghrelcli v0.0.0-20221116152255-0c403f8396fe // indirect
 	github.com/firefart/nonamedreturns v1.0.1 // indirect
 	github.com/fsnotify/fsnotify v1.6.0 // indirect
 	github.com/fzipp/gocyclo v0.5.1 // indirect

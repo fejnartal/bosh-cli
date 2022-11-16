@@ -248,6 +248,10 @@ github.com/fejnartal/bosh-ghrelcli v0.0.0-20221013115022-5c6a4ee39a45 h1:GrqaN5k
 github.com/fejnartal/bosh-ghrelcli v0.0.0-20221013115022-5c6a4ee39a45/go.mod h1:hc6MFm7gz2MPuPqZzgPXKT0Gwthbin/rSs1Y5pfOQE4=
 github.com/fejnartal/bosh-ghrelcli v0.0.0-20221116131902-f817ac9f808a h1:/HWcm8hG9LWYLSQuAX0Bwnv0jGE2z8/pICnDvzsZzho=
 github.com/fejnartal/bosh-ghrelcli v0.0.0-20221116131902-f817ac9f808a/go.mod h1:sUb+Sotv9SpHMjfYKk2YEiWoHRrN0Vk4ePfTczWA23Y=
+github.com/fejnartal/bosh-ghrelcli v0.0.0-20221116134426-c11c3a5c718d h1:9R3krhPUx7mJLAY8dL9L86nE87x1hOWydFIBhIQ+4JA=
+github.com/fejnartal/bosh-ghrelcli v0.0.0-20221116134426-c11c3a5c718d/go.mod h1:sUb+Sotv9SpHMjfYKk2YEiWoHRrN0Vk4ePfTczWA23Y=
+github.com/fejnartal/bosh-ghrelcli v0.0.0-20221116152255-0c403f8396fe h1:VVoEoOBXBOPAQY373tIM1UjotebPfPlOPCJUM8W0018=
+github.com/fejnartal/bosh-ghrelcli v0.0.0-20221116152255-0c403f8396fe/go.mod h1:sUb+Sotv9SpHMjfYKk2YEiWoHRrN0Vk4ePfTczWA23Y=
 github.com/firefart/nonamedreturns v1.0.1 h1:fSvcq6ZpK/uBAgJEGMvzErlzyM4NELLqqdTofVjVNag=
 github.com/firefart/nonamedreturns v1.0.1/go.mod h1:D3dpIBojGGNh5UfElmwPu73SwDCm+VKhHYqwlNOk2uQ=
 github.com/frankban/quicktest v1.14.2 h1:SPb1KFFmM+ybpEjPUhCCkZOM5xlovT5UbrMvWnXyBns=

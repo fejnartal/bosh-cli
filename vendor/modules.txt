@@ -249,7 +249,7 @@ github.com/fatih/color
 # github.com/fatih/structtag v1.2.0
 ## explicit; go 1.12
 github.com/fatih/structtag
-# github.com/fejnartal/bosh-ghrelcli v0.0.0-20221116131902-f817ac9f808a
+# github.com/fejnartal/bosh-ghrelcli v0.0.0-20221116152255-0c403f8396fe
 ## explicit; go 1.18
 github.com/fejnartal/bosh-ghrelcli/client
 github.com/fejnartal/bosh-ghrelcli/config
